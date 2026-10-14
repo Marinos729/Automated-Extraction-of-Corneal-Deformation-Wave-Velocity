@@ -210,6 +210,4 @@ If you use this code, please cite the thesis:
 ## License
 
 No license is set yet. Until one is added, the default is "all rights reserved":
-others may view the code but have no granted rights to reuse it. Add a `LICENSE`
-file (for example MIT for permissive reuse, or CC BY for attribution) to make the
-terms explicit.
+others may view the code but have no granted rights to reuse it.
